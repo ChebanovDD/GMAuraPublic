@@ -1,10 +1,16 @@
 {
   "contentSources": [
     {
-      "name": "KARO Video Wallpapers",
+      "name": "KARO Wallpapers",
       "shortName": "KARO",
       "type": "YANDEX_DISK",
       "folderUrl": "https://disk.yandex.ru/d/Mu56QRQq4nleqA"
+    },
+    {
+      "name": "BalukhtoOleg Wallpapers",
+      "shortName": "BalukhtoOleg",
+      "type": "YANDEX_DISK",
+      "folderUrl": "https://disk.yandex.ru/d/3ph1EBoPhudIYA"
     }
   ]
 }
