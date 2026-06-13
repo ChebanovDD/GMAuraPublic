@@ -139,16 +139,16 @@ thumbs/catalina.jpg     ← подойдёт для всех слотов catali
 ```
 Моя коллекция/
 ├── Videos/
-│   ├── aurora_l.mp4              ┐ парные обои «Aurora»
-│   └── aurora_r.mp4              ┘
+│   ├── aurora_l.mp4            ┐ парные обои «Aurora»
+│   └── aurora_r.mp4            ┘
 ├── Images/
-│   ├── mountains.jpg            → одиночные «Mountains»
+│   ├── mountains.jpg           → одиночные «Mountains»
 │   ├── catalina_d_0600.jpg     ┐
 │   ├── catalina_d_1200.jpg     │ динамические «Catalina» (3 слота)
 │   └── catalina_d_2000.jpg     ┘
 └── thumbs/
-    ├── aurora.jpg               → превью для пары Aurora
-    ├── mountains.jpg            → превью для Mountains
+    ├── aurora.jpg              → превью для пары Aurora
+    ├── mountains.jpg           → превью для Mountains
     └── catalina.jpg            → превью для набора Catalina
 ```
 
